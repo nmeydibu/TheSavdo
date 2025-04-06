@@ -1,0 +1,4 @@
+client add, edit, list ni tugatish.
+arxitekturasini tugatish.
+hamma referencelarni uilarini tugatish.
+document ni tugatish.
